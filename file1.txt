@@ -1,5 +1,3 @@
 hi my first line is this ...!
 
-
-
 add new line for test .
